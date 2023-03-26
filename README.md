@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Lover of coffee and cheese</h3>
+<h3 align="center">Founder of Silverpine. Lover of coffee and cheese. I work on quite a few projects at any given time. Some proprietary, some open source. I'd love to connect! Buttons are below if you're interested in chatting...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheesemaker&label=Profile%20views&color=0e75b6&style=flat" alt="cheesemaker" /> </p>
 
@@ -30,8 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Cheesemaker"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Cheesemaker" /></a><a href="https://ko-fi.com/cheesemaker"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="cheesemaker" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesemaker&show_icons=true&locale=en&layout=compact" alt="cheesemaker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheesemaker&show_icons=true&locale=en" alt="cheesemaker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheesemaker&" alt="cheesemaker" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheesemaker&show_icons=true&locale=en&layout=compact" alt="cheesemaker" /></p>
