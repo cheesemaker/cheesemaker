@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on: [ZDay: Survivor](https://zdaysurvivor.com), [Evergreen.ink](https://evergreen.ink), [Micro.blog](https://micro.blog)
 
-- 👨‍💻 All of my projects are available at [https://silverpine.com](https://silverpine.com)
+- 👨‍💻 The company I co-founded: [https://silverpine.com](https://silverpine.com)
 
-- 📝 I regularly write articles on [jonhays.me](jonhays.me)
-
-- 💬 Ask me about **anything!**
+- 📝 I regularly write articles on [jonhays.me](https://jonhays.me) and [jonathanhays.me](https://jonathanhays.me)
 
 - 📫 How to reach me **jon@silverpine.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/cheesemaker](https://linkedin.com/in/cheesemaker)
+- 📄 Find out about my professional experience: [https://linkedin.com/in/cheesemaker](https://linkedin.com/in/cheesemaker)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
