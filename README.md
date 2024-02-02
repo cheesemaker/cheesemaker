@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheesemaker&label=Profile%20views&color=0e75b6&style=flat" alt="cheesemaker" /> </p>
 
-- 🔭 I’m currently working on [ZDay: Survivor](https://zdaysurvivor.com)
+- 🔭 I’m currently working on: [ZDay: Survivor](https://zdaysurvivor.com), [Evergreen.ink](https://evergreen.ink), [Micro.blog](https://micro.blog)
 
 - 👨‍💻 All of my projects are available at [https://silverpine.com](https://silverpine.com)
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cheesemaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheesemaker" height="30" width="40" /></a>
 <a href="https://instagram.com/cheesemaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cheesemaker" height="30" width="40" /></a>
-<a href="https://www.threads.net/@cheesemaker" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg" alt="cheesemaker" height="30" width="40" /></a>
+<a href="https://www.threads.net/@cheesemaker" target="blank"><img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yK/r/-fFyD6YK6t6.png" alt="cheesemaker" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
